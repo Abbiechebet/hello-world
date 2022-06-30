@@ -5,4 +5,8 @@ public class HelloWorldClass {
             System.out.println("Hello world!");
 			System.out.println("Hello world!");
 			System.out.println("Emegency!");
+<<<<<<< HEAD
+=======
+			System.out.println("list");
+>>>>>>> hello-with-list
         }
