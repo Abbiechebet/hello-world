@@ -5,6 +5,7 @@ public class HelloWorldClass {
             System.out.println("Hello world!");
 			System.out.println("Hello world!");
 			System.out.println("Emegency!");
+			System.out.println("Emegency2!");
 <<<<<<< HEAD
 =======
 			System.out.println("list");
